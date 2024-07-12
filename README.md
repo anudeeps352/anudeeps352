@@ -6,7 +6,7 @@ About me
 
 
 <p algin="right"> - 🌱 <strong>Currently Learning:</strong> Next.js, React, Gsap, Prisma, NestJS </p>
-<p algin="right"><strong>- 👨‍💻 <strong>Technologies:</strong> Python, JavaScript, HTML, CSS, React, Node.js, Java, C, C++, Typescript </p>
+<p algin="right"><strong>- 👨‍💻 <strong>Technologies:</strong> Python, JavaScript, HTML, CSS, React, Node.js, Java, C, C++, Typescript ,Docker , Nginx</p>
 <p algin="right"><strong>- 💬 <strong>Languages:</strong> English, Malayalam </p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16" alt="Developer GIF"> <strong>I enjoy working on:</strong>
