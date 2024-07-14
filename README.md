@@ -3,7 +3,11 @@ About me
 <div>
   <img align="left" height="200px" width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGQ3dzB6djBvb281MHVkeDA5cjd3ZnRueTF4OW1scmU1d29rbXQwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W1qqdGdnQhR2JorbbQ/giphy.gif" alt="Coding GIF">
 </div>
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <p algin="right"> - 🌱 <strong>Currently Learning:</strong> Next.js, React, Gsap, Prisma, NestJS </p>
 <p algin="right"><strong>- 👨‍💻 <strong>Technologies:</strong> Python, JavaScript, HTML, CSS, React, Node.js, Java, C, C++, Typescript ,Docker , Nginx</p>
 <p algin="right"><strong>- 💬 <strong>Languages:</strong> English, Malayalam ,Hindi</p>
