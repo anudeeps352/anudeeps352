@@ -1,7 +1,7 @@
 ## Hello there ,I'm Anudeep👋
 About me
 <div>
-  <img align="left" height="300vh" width="300vh" src="https://www.google.com/imgres?q=shinchan%20gif&imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FdTtJFQswLg8uL7HWoH%2Fgiphy.gif%3Fcid%3D6c09b9526c7v8szdejrxz00hq8qgbxs28lnz3xapoyvq6kwe%26ep%3Dv1_internal_gif_by_id%26rid%3Dgiphy.gif%26ct%3Ds&imgrefurl=https%3A%2F%2Fgiphy.com%2Fstickers%2Fcrayon-shinchan-shin-chan-dTtJFQswLg8uL7HWoH&docid=mSJqPU70rqISSM&tbnid=JcMRmPKuGyXc0M&vet=12ahUKEwiSy-i0t6aHAxVpxzgGHb7jDLkQM3oECGcQAA..i&w=302&h=300&hcb=2&ved=2ahUKEwiSy-i0t6aHAxVpxzgGHb7jDLkQM3oECGcQAA" alt="Coding GIF">
+  <img align="left" height="300vh" width="300vh" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW14bWVoMmQ3NHZlcWtjdzl0ODBwZDFnNHZtbGU4YXJvNTJpZ3E3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dTtJFQswLg8uL7HWoH/giphy.gif" alt="Coding GIF">
 </div>
 
 
