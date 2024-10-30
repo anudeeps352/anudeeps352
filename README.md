@@ -14,7 +14,7 @@
 <p algin="right"><strong>  - 🛠 Hobby electronics. </p>
 <br><br>
 
-![Anudeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=anudeeps352&show_icons=true&theme=dark\&show=prs_merged)
+![Anudeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=anudeeps352&show_icons=true&theme=dark\&rank_icon=github\&show=prs_merged)
 
 <!--
 **anudeeps352/anudeeps352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
