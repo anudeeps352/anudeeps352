@@ -5,7 +5,7 @@
 
 
 ## About Me:
-🔭I'm currently working on : DevOps, Web Develeopement and Rust skills. <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXd3NTZ5b3AyZ2FxcTZhMXloandvY2RneW9zODhpdnYxMXlmaGtzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/54ZSJMeNkaNsA/giphy.gif" alt="Programmation" height="130"/><br>🌱I'm currently learning : Rust, Typescript, Springboot and DevOps practices<br>💬Ask me about : Movies, Tech, Cars and anything related to developement <br> <br>
+🔭I'm currently working on : DevOps, Web Developement and Rust skills. <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXd3NTZ5b3AyZ2FxcTZhMXloandvY2RneW9zODhpdnYxMXlmaGtzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/54ZSJMeNkaNsA/giphy.gif" alt="Programmation" height="130"/><br>🌱I'm currently learning : Rust, Typescript, Springboot and DevOps practices<br>💬Ask me about : Movies, Tech, Cars and anything related to developement <br> <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anudeeps066) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anudeeps352@gmail.com) 
 [![](https://visitcount.itsvg.in/api?id=anudeeps352&icon=0&color=0)](https://visitcount.itsvg.in)
 
